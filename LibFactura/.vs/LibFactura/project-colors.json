@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "4eaf8236-2674-4ea4-86bd-f6a6b0172749": {
+      "ProjectGuid": "4eaf8236-2674-4ea4-86bd-f6a6b0172749",
+      "DisplayName": "LibFactura",
+      "ColorIndex": 0
+    },
+    "7ce7eba3-dbcd-4aa7-a24b-12f31295dc18": {
+      "ProjectGuid": "7ce7eba3-dbcd-4aa7-a24b-12f31295dc18",
+      "DisplayName": "FacturaForms",
+      "ColorIndex": 1
+    },
+    "505143fd-551e-405d-a9ae-6fc4e09d59c6": {
+      "ProjectGuid": "505143fd-551e-405d-a9ae-6fc4e09d59c6",
+      "DisplayName": "FacturaForms",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

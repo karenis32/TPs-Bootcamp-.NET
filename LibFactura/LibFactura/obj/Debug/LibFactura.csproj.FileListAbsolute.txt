@@ -1,0 +1,6 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\bin\Debug\LibFactura.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\bin\Debug\LibFactura.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\obj\Debug\LibFactura.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\obj\Debug\LibFactura.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\obj\Debug\LibFactura.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\LibFactura\obj\Debug\LibFactura.pdb

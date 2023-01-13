@@ -1,0 +1,14 @@
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\bin\Debug\FacturaForms.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\bin\Debug\FacturaForms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\bin\Debug\FacturaForms.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\bin\Debug\LibFactura.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\bin\Debug\LibFactura.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.Form1.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\LibFactura\FacturaForms\obj\Debug\FacturaForms.pdb
