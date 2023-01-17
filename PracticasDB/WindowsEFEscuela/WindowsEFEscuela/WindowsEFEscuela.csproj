@@ -56,12 +56,13 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Dac\AbmAlumno.cs" />
     <Compile Include="Data\DBEFEscuela.cs" />
-    <Compile Include="Form1.cs">
+    <Compile Include="frmAlumno.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="frmAlumno.Designer.cs">
+      <DependentUpon>frmAlumno.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\202301162022199_initial.cs" />
     <Compile Include="Migrations\202301162022199_initial.designer.cs">
@@ -75,6 +76,10 @@
     <Compile Include="Migrations\202301162107492_agregoDbSet.designer.cs">
       <DependentUpon>202301162107492_agregoDbSet.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202301171949434_agregoRelacion.cs" />
+    <Compile Include="Migrations\202301171949434_agregoRelacion.designer.cs">
+      <DependentUpon>202301171949434_agregoRelacion.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Alumno.cs" />
     <Compile Include="Models\Aula.cs" />
@@ -82,6 +87,9 @@
     <Compile Include="Models\Profesor.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmAlumno.resx">
+      <DependentUpon>frmAlumno.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202301162022199_initial.resx">
       <DependentUpon>202301162022199_initial.cs</DependentUpon>
     </EmbeddedResource>
@@ -90,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202301162107492_agregoDbSet.resx">
       <DependentUpon>202301162107492_agregoDbSet.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202301171949434_agregoRelacion.resx">
+      <DependentUpon>202301171949434_agregoRelacion.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

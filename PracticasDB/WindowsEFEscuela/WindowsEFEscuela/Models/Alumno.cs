@@ -26,5 +26,19 @@ namespace WindowsEFEscuela.Models
         public string Apellido { get; set;}
 
         public DateTime? FechaNacimiento { get; set; }
+        public Alumno()
+        {
+        }
+        public Alumno( string nombre, string apellido, DateTime? fechaNacimiento, Profesor profesor)
+        {
+            this.profesor= profesor;
+            Nombre = nombre;
+            Apellido = apellido;
+            FechaNacimiento = fechaNacimiento;
+        }
+
+        public Profesor profesor { get; set; }
+
+
     }
 }

@@ -17,7 +17,7 @@ namespace WindowsEFEscuela.Models
         [Column(TypeName = "varchar")]//tipo de datos en SQL Server
         [StringLength(50)]//long de la cadena
         [Required]//es obligatorio. No acepta nulos
-        public string Apellido { get;set; }
+        public string Apellido { get; set; }
 
         [Column(TypeName = "varchar")]//tipo de datos en SQL Server
         [StringLength(50)]//long de la cadena
@@ -28,6 +28,15 @@ namespace WindowsEFEscuela.Models
         [StringLength(50)]//long de la cadena
         [Required]//es obligatorio. No acepta nulos
         public string Titulo { get; set; }
+
+        public Profesor(string apellido, string nombre, string titulo)
+        {
+            Apellido = apellido;
+            Nombre = nombre;
+            Titulo = titulo;
+        }
+
+        public List<Alumno> ListaAlumnos { get; set; }
 
     }
 }

@@ -16,3 +16,23 @@ C:\Users\Usuario\source\repos\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\Window
 C:\Users\Usuario\source\repos\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.initial.resources
 C:\Users\Usuario\source\repos\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.agregoClases.resources
 C:\Users\Usuario\source\repos\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.agregoDbSet.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\WindowsEFEscuela.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.xml
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.SuggestedBindingRedirects.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.frmAlumno.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.initial.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.agregoClases.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.agregoDbSet.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.csproj.CopyComplete
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.exe
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.pdb
+C:\Users\Usuario\OneDrive\Escritorio\Bootcamp C#\Programación Web NET Core\TPs-Bootcamp-.NET\PracticasDB\WindowsEFEscuela\WindowsEFEscuela\obj\Debug\WindowsEFEscuela.Migrations.agregoRelacion.resources
