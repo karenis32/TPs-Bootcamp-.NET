@@ -8,25 +8,25 @@ using System.Threading.Tasks;
 
 namespace WindowsClinica.Models
 {
-    [Table("Habitaciones")]
-    public class Habitacion
+    [Table ("Paciente")]
+    public class Paciente
     {
         [Key]
         public int Id { get; set; }
 
+        [Column(TypeName = "varchar")]
+        [StringLength(50)]
         [Required]
-        [RegularExpression("@^[A]{3}[0-9]{3}")]
-        public string Numero { get; set; }
+        public string Nombre { get; set; }
 
         [Column(TypeName = "varchar")]
         [StringLength(50)]
         [Required]
-        public string Estado { get; set; }
+        public string Apellido { get; set; }
 
-        [Column(TypeName = "varchar")]
-        [StringLength(200)]
-        public string Descripción { get; set; }
+        public int NroHistClinica { get; set; }
 
+        public Medico medico { get; set; }
         public Clinica clinica { get; set; }
     }
 }

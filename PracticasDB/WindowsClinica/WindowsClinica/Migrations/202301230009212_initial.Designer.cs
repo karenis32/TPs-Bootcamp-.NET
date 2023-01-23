@@ -13,7 +13,7 @@ namespace WindowsClinica.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202301162121543_initial"; }
+            get { return "202301230009212_initial"; }
         }
         
         string IMigrationMetadata.Source

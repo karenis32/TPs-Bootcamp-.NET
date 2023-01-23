@@ -8,23 +8,23 @@
         public override void Up()
         {
             CreateTable(
-                "dbo.Clinicas",
+                "dbo.Clinica",
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        Nombre = c.String(),
+                        Nombre = c.String(nullable: false, maxLength: 50, unicode: false),
                         FechaInicioActividades = c.DateTime(nullable: false),
                     })
                 .PrimaryKey(t => t.Id);
             
             CreateTable(
-                "dbo.Habitacions",
+                "dbo.Habitaciones",
                 c => new
                     {
                         Id = c.Int(nullable: false, identity: true),
-                        Numero = c.Int(nullable: false),
-                        Estado = c.String(),
-                        Descripcion = c.String(),
+                        Numero = c.String(nullable: false),
+                        Estado = c.String(nullable: false, maxLength: 50, unicode: false),
+                        Descripción = c.String(maxLength: 200, unicode: false),
                     })
                 .PrimaryKey(t => t.Id);
             
@@ -32,8 +32,8 @@
         
         public override void Down()
         {
-            DropTable("dbo.Habitacions");
-            DropTable("dbo.Clinicas");
+            DropTable("dbo.Habitaciones");
+            DropTable("dbo.Clinica");
         }
     }
 }

@@ -21,5 +21,9 @@ namespace WindowsClinica.Models
 
 
         public DateTime FechaInicioActividades { get; set; }
+
+        public List<Medico> medicos { get; set; }
+        public List<Paciente> paciente { get; set;}
+        public List<Habitacion> habitaciones { get;set; }
     }
 }

@@ -20,6 +20,9 @@ namespace WindowsClinica.Data
 
         public DbSet<Clinica> Clinicas { get; set; }
         public DbSet<Habitacion> Habitaciones { get; set; }
+        public DbSet<Medico> Medicos { get; set; }
+        public DbSet<Paciente> Pacientees { get; set; }
+        public DbSet<Espcialidad> Espcialidades { get;set; }
 
     }
 }

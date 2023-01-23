@@ -7,13 +7,13 @@ namespace WindowsClinica.Migrations
     using System.Resources;
     
     [GeneratedCode("EntityFramework.Migrations", "6.4.0")]
-    public sealed partial class cambioTablas : IMigrationMetadata
+    public sealed partial class agregoClases : IMigrationMetadata
     {
-        private readonly ResourceManager Resources = new ResourceManager(typeof(cambioTablas));
+        private readonly ResourceManager Resources = new ResourceManager(typeof(agregoClases));
         
         string IMigrationMetadata.Id
         {
-            get { return "202301162128446_cambioTablas"; }
+            get { return "202301230036431_agregoClases"; }
         }
         
         string IMigrationMetadata.Source

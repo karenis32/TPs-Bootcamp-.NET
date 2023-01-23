@@ -63,24 +63,27 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202301162121543_initial.cs" />
-    <Compile Include="Migrations\202301162121543_initial.designer.cs">
-      <DependentUpon>202301162121543_initial.cs</DependentUpon>
+    <Compile Include="Migrations\202301230009212_initial.cs" />
+    <Compile Include="Migrations\202301230009212_initial.designer.cs">
+      <DependentUpon>202301230009212_initial.cs</DependentUpon>
     </Compile>
-    <Compile Include="Migrations\202301162128446_cambioTablas.cs" />
-    <Compile Include="Migrations\202301162128446_cambioTablas.designer.cs">
-      <DependentUpon>202301162128446_cambioTablas.cs</DependentUpon>
+    <Compile Include="Migrations\202301230036431_agregoClases.cs" />
+    <Compile Include="Migrations\202301230036431_agregoClases.designer.cs">
+      <DependentUpon>202301230036431_agregoClases.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Models\Clinica.cs" />
+    <Compile Include="Models\Espcialidad.cs" />
     <Compile Include="Models\Habitacion.cs" />
+    <Compile Include="Models\Medico.cs" />
+    <Compile Include="Models\Paciente.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Migrations\202301162121543_initial.resx">
-      <DependentUpon>202301162121543_initial.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202301230009212_initial.resx">
+      <DependentUpon>202301230009212_initial.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Migrations\202301162128446_cambioTablas.resx">
-      <DependentUpon>202301162128446_cambioTablas.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\202301230036431_agregoClases.resx">
+      <DependentUpon>202301230036431_agregoClases.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
